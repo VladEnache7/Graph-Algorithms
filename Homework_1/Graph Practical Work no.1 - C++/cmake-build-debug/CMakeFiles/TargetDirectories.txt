@@ -1,0 +1,3 @@
+/mnt/c/Users/Admin/Documents/GitHub/Graph Practical Work no.1 - C++/cmake-build-debug/CMakeFiles/Graph_Practical_Work_no_1___C__.dir
+/mnt/c/Users/Admin/Documents/GitHub/Graph Practical Work no.1 - C++/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Admin/Documents/GitHub/Graph Practical Work no.1 - C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir

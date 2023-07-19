@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Graph_Practical_Work_no_1___C__.dir/main.cpp.o CMakeFiles/Graph_Practical_Work_no_1___C__.dir/graph.cpp.o -o Graph_Practical_Work_no_1___C__ 
